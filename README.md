@@ -4,8 +4,7 @@ Cześć! Przed Tobą trzy krótkie zadania, które pozwolą nam zweryfikować
 Twoją podstawową znajomość Rubiego i SQL-a. Całość składa się z 
 jednego algorytmu i dwóch zapytań SQL-owych. 
 
-**Rozwiązania nie musisz wrzucać na swojego GitHuba. 
-Wystarczy, że wyślesz nam link do [gista](https://gist.github.com/) z algorytmem i zapytaniami.**
+**Rozwiązania nie musisz wrzucać na swojego GitHuba.</br>Wystarczy, że wyślesz nam link do [gista](https://gist.github.com/) z algorytmem i zapytaniami.**
 
 #### Zadania do rozwiązania:
 
@@ -20,7 +19,7 @@ z liter a..z i A..Z. Metoda powinna zwracać ciąg znaków w konwencji:
 Więcej przykładów znajdziesz w pliku spec/algorithm_playground_spec.rb
 ```
 
-💡 Hint: mżesz przetestować poprawność swojego rozwiązania za pomocą przygotowanych przez nas testów. 
+💡 **Hint:** mżesz przetestować poprawność swojego rozwiązania za pomocą przygotowanych przez nas testów. 
 W przypadku kiedy nie spotkałaś/spotkałeś się wcześniej z Rspec poniżej
 znajdziesz krótki tutorial co i jak odpalać :)
 
@@ -91,7 +90,6 @@ Napisz zapytanie, które wyświetla nazwy artykułów i imię jego sprzedawcy
 dla każdego artykułu należącego do sprzedawcy z ratingiem wyższym niż 3.
 
 Spodziewany wynik (uszeregowany po nazwie artykłuu):
-
 +-------------------------+-------------+
 | Item                    | Seller      |
 +-------------------------+-------------+
