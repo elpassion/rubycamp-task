@@ -91,7 +91,7 @@ dla każdego artykułu należącego do sprzedawcy z ratingiem wyższym niż 3.
 
 Spodziewany wynik (uszeregowany po nazwie artykłuu):
 +-------------------------+-------------+
-| Item                    | Seller      |
+| item                    | seller      |
 +-------------------------+-------------+
 | Durable Iron Knife      | Stephen     |
 | Incredible Silk Chair   | Marie       |
